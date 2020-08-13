@@ -1,2 +1,5 @@
-# leccion-03-python-tipos-variables-expresiones
-Tipos de datos, variables y expresiones en Python
+# Python - tipos de datos, variables y expresiones
+
+- [El programa "Hola mundo"]()
+- [Tipos de datos y variables]()
+- [Expresiones]()
